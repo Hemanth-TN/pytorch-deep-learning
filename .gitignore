@@ -1,3 +1,4 @@
+.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,7 +132,7 @@ dmypy.json
 # Misc
 *.DS_Store
 */.DS_Store
-extras/data/*
+./extras/data/*
 
 # Data files
 data/10_whole_foods*
