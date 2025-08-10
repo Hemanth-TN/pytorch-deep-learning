@@ -148,6 +148,7 @@ logs/
 runs/
 extras/cifar-10*
 extras/exercises/data/
+extras/exercises/exercise_data/
 
 # Notebooks
 09_pytorch_model_deployment-*

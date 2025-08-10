@@ -6,6 +6,7 @@ import os
 
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
+print("import from datasetup")
 
 NUM_WORKERS = os.cpu_count()
 
